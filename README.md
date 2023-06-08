@@ -15,7 +15,8 @@
 <a href="https://remix.run/" rel="Remix">![FAo](https://img.shields.io/badge/-Remix-000000?logo=remix&logoColor=white&style=for-the-badge)</a>
 <a href="https://www.electronjs.org/" rel="Electron">![FAo](https://img.shields.io/badge/-Electron-2554a0?logo=electron&logoColor=white&style=for-the-badge)</a>
 
-  
-# Cool People
-  - TrirDev
-  - and the rest of my friends dont use github
+```json
+{
+  "TrirDev"
+}
+```
