@@ -14,7 +14,7 @@
 <a href="https://nextjs.org/" rel="NextJs">![FAo](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)</a>
 <a href="https://remix.run/" rel="Remix">![FAo](https://img.shields.io/badge/-Remix-000000?logo=remix&logoColor=white&style=for-the-badge)</a>
 <a href="https://www.electronjs.org/" rel="Electron">![FAo](https://img.shields.io/badge/-Electron-2554a0?logo=electron&logoColor=white&style=for-the-badge)</a>
-
+# Cool People
 ```json
 {
   "TrirDev"
